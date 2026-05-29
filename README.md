@@ -4,10 +4,6 @@ Resolução da lista de **Introdução à Estatística Computacional**
 A lista trabalha o Erro Quadrático Médio (MQE) no treino e no teste, a comparação entre um
 modelo linear e um polinomial, e o efeito da variância dos dados na estabilidade da avaliação.
 
-Tudo está no notebook [`lista_mqe_variancia.ipynb`](lista_mqe_variancia.ipynb), com o código,
-as saídas e as respostas escritas logo abaixo de cada bloco. O GitHub renderiza o notebook
-direto na página, então dá pra ler sem precisar rodar nada.
-
 ## O que tem em cada parte
 
 - **Parte I** — base original, regressão linear, MQE de treino e de teste e interpretação.
