@@ -1,6 +1,6 @@
 # Lista de Exercícios — MQE, MQE de Teste e Variância
 
-Resolução da lista de **Introdução à Estatística Computacional** (Sistemas de Informação — UESB).
+Resolução da lista de **Introdução à Estatística Computacional**
 A lista trabalha o Erro Quadrático Médio (MQE) no treino e no teste, a comparação entre um
 modelo linear e um polinomial, e o efeito da variância dos dados na estabilidade da avaliação.
 
